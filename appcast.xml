@@ -17,5 +17,16 @@
                 sparkle:edSignature=""
             />
         </item>
+            <item>
+            <title>SirVoice 1.0.2</title>
+            <sparkle:version>3</sparkle:version>
+            <sparkle:shortVersionString>1.0.2</sparkle:shortVersionString>
+            <enclosure
+                url="https://github.com/lwang2-godaddy/sirvoice-releases/releases/download/v1.0.2/SirVoice-1.0.2.dmg"
+                length="19374943"
+                type="application/octet-stream"
+                sparkle:edSignature=""
+            />
+        </item>
     </channel>
 </rss>
