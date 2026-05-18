@@ -357,5 +357,16 @@
                 sparkle:edSignature="yYJmlc04EFw1dowNTQ1ZN1+j98MJhZLZyDIO+QLoMwUM6rgCOZIyMrHZrcYKU5iKt0bcS05yCwvOUQ64upTXDg=="
             />
         </item>
+            <item>
+            <title>SirVoice 1.1.1</title>
+            <sparkle:version>101</sparkle:version>
+            <sparkle:shortVersionString>1.1.1</sparkle:shortVersionString>
+            <enclosure
+                url="https://github.com/lwang2-godaddy/sirvoice-releases/releases/download/v1.1.1/SirVoice-1.1.1.dmg"
+                length="23387659"
+                type="application/octet-stream"
+                sparkle:edSignature="yZw3h20qOcbQIhso6B/ijUqydI7D/T9839krX6GVHTxsnEwVYizK1fCgrv0kMsm+yTjr7J4npdpFGZmIh40WBw=="
+            />
+        </item>
     </channel>
 </rss>
